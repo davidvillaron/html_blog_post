@@ -1,0 +1,11 @@
+Instructions
+Build a basic blog page that has 3 articles and any random topics you want to talk about. The text can be anything, even placeholder text ( look at this lorem ipsum text generator for an example of the official unofficial gibberish of web developers everywhere ). The blog page should contain the following:
+
+An appropriate document structure and meta
+A page header containing the blog's title
+A page footer containing the copyright notice (view pretty much any web site to see an example)
+Each article has a header containing a title
+Each article has a footer containing the author and publication date
+Each article has an accompanying image with appropriate accessibility descriptions
+Each article has at least one section
+Submit a link to your repo or codepen called "01-challenge-html" 
